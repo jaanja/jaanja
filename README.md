@@ -60,4 +60,4 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jaanja=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaanja&layout=compact)
