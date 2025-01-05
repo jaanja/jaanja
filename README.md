@@ -54,6 +54,7 @@
   <a href="https://www.notion.so/172d421a113980928615e8b5e85c42fa">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
+  
   <a href="mailto:sungjun345@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
