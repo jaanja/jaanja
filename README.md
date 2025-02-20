@@ -3,6 +3,9 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/jaanja?pet-id=1" width="1000" height="120"/>
 </a>
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
 </div>
 
 <!--내용 부분-->
@@ -57,7 +60,5 @@
 <br>
 
 <div align="center">
-
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaanja&count_bg=%231663CF&title_bg=%23100F0F&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
