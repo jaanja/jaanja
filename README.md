@@ -1,5 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jaanja?pet-id=1" width="1000" height="120"/>
+</a>
 </div>
 
 <!--내용 부분-->
