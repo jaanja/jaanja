@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jaanja&utm_content=farm">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jaanja&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/jaanja"
   width="600"
