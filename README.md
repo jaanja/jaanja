@@ -35,9 +35,4 @@
 
 <br>
 <br>
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaanja&count_bg=%231663CF&title_bg=%23100F0F&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
